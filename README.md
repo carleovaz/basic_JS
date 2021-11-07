@@ -1,2 +1,2 @@
 # basic_JS
-#Simple Javascript Practical Exercises
+Simple Javascript Practical Exercises
